@@ -1,0 +1,9 @@
+.current_heading {
+    font-size: 32px;
+    color: darkblue;
+    text-align: center;
+}
+
+.date, .time {
+    text-align: center;
+}
