@@ -26,3 +26,10 @@
   >- Start Django app from scratch
   >- Reinforce the important concepts you want to master
   >- Get you to build things a lot faster as each iteration will help you optimize your workflow
+
+* ##### Time Display
+  > Create a Django project with a single app called time_display that renders a template displaying the current date and time.
+  
+  >- Practice setting up a Django Project
+  >- Familiarity with passing data to a template
+  >- Practice connecting to static files
